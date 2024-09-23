@@ -1,0 +1,20 @@
+{
+    "name": "debug",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "SimpleMouse": {
+                "$path": "default.project.json"
+            }
+        },
+
+        "StarterPlayer": {
+            "StarterPlayerScripts": {
+                "Test": {
+                    "$path": "test.client.lua"
+                }
+            }
+        }
+    }
+}
